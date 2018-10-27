@@ -4,13 +4,18 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi my name is Mayank Nagda. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a Gallivanter
+- Can easily and quickly chose the best food from the menu
+- I'm extremely loyal, if fed on time!
+- I big movie buff
+- Football Fanatic (used to love cricket too)
+- Meme review everybody
+- Can geek out anytime on Computers, Machines and Space. Can be fun!
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you just call me on a date and I will answer **all** your questions.
