@@ -3,7 +3,9 @@ layout: page
 title: My Experiences 
 subtitle: See mom, I rocked
 ---
+
 Hi below mentioned are some of my work experiences-
+
 
 ### Internship from Darte’Web(Summer, 2017):
 - Domain: e-commerce website project
@@ -12,9 +14,8 @@ Hi below mentioned are some of my work experiences-
 ### Managerial Experience (2015-19)
 - SRM IET On Campus
 
----
-subtitle: Other Works
----
+### Other Works
+
 ### Certifications
 - C Programming (6 Months): IIT Bombay, under Dr. Pathak. 
 - Web Development (1 Month): under Darte’Web.
