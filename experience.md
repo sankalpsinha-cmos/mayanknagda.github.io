@@ -27,7 +27,7 @@ Hi below mentioned are some of my work experiences-
 - Office Bearer at SRM IET On Campus: Mar 2016- Sep 2016
 
 ### Awards and Appreciations
-- The IET CLN Trendsetter of the year 2018
-- CLN Iconic Event of the year 2018 (As IET Chairman)
-- CLN Dynamic Chapter of the year 2018 (As IET Chairman)
+- The IET CLN Trendsetter of the year 2018 (Individual Award)
+- The IET CLN Iconic Event of the year 2018 (Group Award, As IET Chairman)
+- The IET CLN Dynamic Chapter of the year 2018 (Group Award, As IET Chairman)
 - More Details on- <a href="http://www.srmuniv.ac.in/engineering/cse/achievements/srm-iet-on-campus">Click Here</a>
