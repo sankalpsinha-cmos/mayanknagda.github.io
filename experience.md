@@ -28,6 +28,6 @@ Hi below mentioned are some of my work experiences-
 
 ### Awards and Appreciations
 - The IET CLN Trendsetter of the year 2018
-- Iconic Event of the year 2018 (As IET Chairman)
-- Dynamic Chapter of the year 2018 (As IET Chairman)
+- CLN Iconic Event of the year 2018 (As IET Chairman)
+- CLN Dynamic Chapter of the year 2018 (As IET Chairman)
 - More Details on- <a href="http://www.srmuniv.ac.in/engineering/cse/achievements/srm-iet-on-campus">Click Here</a>
