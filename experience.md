@@ -6,15 +6,12 @@ subtitle: See mom, I rocked
 
 Hi below mentioned are some of my work experiences-
 
-
 ### Internship from Darte’Web(Summer, 2017):
 - Domain: e-commerce website project
 ### Internship from Central Drug Research Institute(Winter, 2017):
 - Domain: Structure Prediction
 ### Managerial Experience (2015-19)
 - SRM IET On Campus
-
-### Other Works
 
 ### Certifications
 - C Programming (6 Months): IIT Bombay, under Dr. Pathak. 
